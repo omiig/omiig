@@ -15,3 +15,9 @@ Eu sou um estudante de TI, apaixonado por escrever códigos, resolver problemas 
 - 📚 Eu estou aprendendo a desenvolvimento backend usando Java e Springboot.
 - 👯 Estou procurando um estágio em desenvolvimento de software. 
 - 📫 Como me encontrar: [Linkedin](https://www.linkedin.com/in/miguel-lopes-626976278) [Gmail](mailto:miguel.lopes9630@gmail.com)
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=omiig&show_icons=true&count_private=true&hide_border=true&title_color=7B68EE&icon_color=7B68EE&text_color=7B68EE&bg_color=0d1117" alt="Miguel Lopes github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omiig&layout=compact&hide_border=true&title_color=7B68EE&text_color=ff91a4&bg_color=0d1117" />
+</div>
+ 
